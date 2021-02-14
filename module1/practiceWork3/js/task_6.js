@@ -1,5 +1,5 @@
 'use strict';
 
 const email = 'joannaang063@gmail.com';
-console.log(message.includes('@'));
-console.log();
+console.log(email.includes('@'));
+console.log(email.length);

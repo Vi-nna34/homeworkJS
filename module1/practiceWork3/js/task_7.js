@@ -1,8 +1,8 @@
 'use strict';
 
-const a = 'My';
-const b = 'name';
-const c = 'is';
+const x = 'My';
+const c = 'name';
+const d = 'is';
 
-const fullName = a + b + c + 'Victor';
+const fullName = x + c + d + 'Victor';
 console.log(fullName);

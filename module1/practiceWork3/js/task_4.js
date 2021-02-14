@@ -1,3 +1,5 @@
 'use strict';
 
-const random = g;
+const random = Math.floor(Math.random () * (19 - 3)) + 3;
+console.log(random);
+ 
